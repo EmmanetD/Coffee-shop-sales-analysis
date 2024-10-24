@@ -13,3 +13,6 @@ Data analysis of coffee shop sales using Excel techniques.
 # Tools
 Microsoft Excel
 # Data Profiling
+- The data coffee shop data contains three sheets: Order, Customers and Products
+- The Order data contains 1000 rows and 5 columns, customer data contains 1000 rows and 9 columns, and the products data contains 48 rows and 7 columns
+- The common column between orders and customers data sheet is the Customer ID and the common column between the orders and products data sheet is the Product ID
