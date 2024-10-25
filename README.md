@@ -51,5 +51,6 @@ Created an interactive dashboard using Excel's built-in tools. The dashboard inc
 - United states has the highest total sales generated from the sale of coffee.
 - Allis Wilmore has contributed the most to the sales of coffee. 
 - According to quantity ordered, Ara is the most ordered coffee type and lib is the least ordered coffee type across the analyzed countries.
-- While Ara is the most ordered coffee for customers who prefer dark and medium roast type, Rob is the most ordered coffee for customers who prefer light roast type. 
+- While Ara is the most ordered coffee for customers who prefer dark and medium roast type, Rob is the most ordered coffee for customers who prefer light roast type.
+- The sales trend analysis showed that all coffee types exhibited significant fluctuations in sales over time. There were periods of high sales followed by periods of low sales. No particular coffee type dominated consistently throughout the period.
 
