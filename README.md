@@ -30,10 +30,11 @@ Some of the columns (Information) contained in the dataset include:
 - Country: Country of customer
 - Coffee Type: Name of the coffee (e.g., Espresso, Latte, Cappuccino)
 # Data Cleaning and Preparation
-- Currency: I changed the "Unit price (USD)" data type from number to currency.
+- Data type conversion. Currency: I changed the "Unit price (USD)" data type from number to currency. I also changed the date from general to date type and lots more. 
 - Blank cells: no blank cell was found.
 - New column: Added a column titled "Sales Amount" by multiplying the Unit Price(USD) x Quantity; this was created in order to know the total sales generated.
-- VLOOKUP function: Used the function to retrieve information from the customers and products sheet using the customer ID and Product ID as lookup values. 
+- INDEX and MATCH & VLOOKUP function: Used these functions to retrieve information from the customers and products sheet using the customer ID and Product ID as lookup values.
+- Tabulating: I tabulated to make the data more organized. 
 # Analysis
 The analysis carried out include:
 | Analysis | Details |
@@ -45,12 +46,15 @@ The analysis carried out include:
 # Dashboard Development
 Created an interactive dashboard using Excel's built-in tools. The dashboard included charts and filters to provide a comprehensive overview of the coffee shop's performance. Filters were implemented for roast type, loyalty card, year, and size to allow users to explore the data at different levels.
 
-![image](https://github.com/user-attachments/assets/d2bfeede-7ce0-44f5-bd52-54f995c6800e)
+![image](https://github.com/user-attachments/assets/6c8278c8-8bc1-429e-bed9-fec9acd44337)
 
-# Result
-- United states has the highest total sales generated from the sale of coffee.
+
+# Results
+- The sales trend analysis showed that all coffee types exhibited significant fluctuations in sales over time. There were periods of high sales followed by periods of low sales. No particular coffee type dominated consistently throughout the period.
+- The United states has the highest total sales generated from the sale of coffee.
 - Allis Wilmore is the top customer with a spending amount of $317.07. The top 3 customers (Allis Wilmore, Brenn Dundredge, and Terri Farra) have spent significantly more than the rest of the customers.
 - According to quantity ordered, Ara is the most ordered coffee type and lib is the least ordered coffee type across the analyzed countries.
 - While Ara is the most ordered coffee for customers who prefer dark and medium roast type, Rob is the most ordered coffee for customers who prefer light roast type.
-- The sales trend analysis showed that all coffee types exhibited significant fluctuations in sales over time. There were periods of high sales followed by periods of low sales. No particular coffee type dominated consistently throughout the period.
-
+  
+# Conclusion
+The results can be used to improve business decisions. For instance, by understanding the monthly or quarterly trends, the coffee shop can implement targeted promotions during slower periods to boost sales. Also, The analysis can help identify specific customer segments to tailor promotions and loyalty programs. By identifying the coffee types that are often ordered, the coffee shop will be able to make informed decisions about product offerings as well.  
