@@ -46,7 +46,8 @@ The analysis carried out include:
 # Dashboard Development
 Created an interactive dashboard using Excel's built-in tools. The dashboard included charts and filters to provide a comprehensive overview of the coffee shop's performance. Filters were implemented for roast type, loyalty card, year, and size to allow users to explore the data at different levels.
 
-![image](https://github.com/user-attachments/assets/6c8278c8-8bc1-429e-bed9-fec9acd44337)
+![image](https://github.com/user-attachments/assets/7280f51f-6768-4404-849b-a33523165b40)
+
 
 
 # Results
